@@ -35,7 +35,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
     <title>desktopinfo</title>
-    <authors>Glenn</authors>
+    <authors>Glenn Delahoy</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://www.glenn.delahoy.com/desktopinfo</projectUrl>
     <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/desktopinfo.png</iconUrl>-->
