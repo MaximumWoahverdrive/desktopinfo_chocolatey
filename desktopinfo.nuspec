@@ -34,24 +34,24 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>desktopinfo</title>
+    <title>Desktop Info</title>
     <authors>Glenn Delahoy</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://www.glenn.delahoy.com/desktopinfo</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/desktopinfo.png</iconUrl>-->
+    <iconUrl>https://www.glenn.delahoy.com/wp-content/uploads/2018/08/fav.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
     <!-- <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
     <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
     <docsUrl>https://www.glenn.delahoy.com/desktop-info-faq/</docsUrl>
-	<mailingListUrl>https://www.glenn.delahoy.com/forums/forum/desktop-info/</mailingListUrl>
+    <mailingListUrl>https://www.glenn.delahoy.com/forums/forum/desktop-info/</mailingListUrl>
     <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>desktopinfo desktop info</tags>
     <summary>This little application displays system information on your desktop.</summary>
     <description>This little application displays system information on your desktop. Looks like wallpaper but stays resident in memory and updates in real time. Perfect for quick identification and walk-by monitoring of production or test server farms or any computer you’re responsible for. Uses very little memory and nearly zero cpu.</description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
-    <!-- =============================== -->      
+    <!-- =============================== -->
 
     <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
     <!--<dependencies>
