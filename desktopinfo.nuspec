@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>desktopinfo</id>
-    <version>3.4.0</version>
+    <version>3.7.0</version>
     <packageSourceUrl>https://github.com/MaximumWoahverdrive/desktopinfo_chocolatey</packageSourceUrl>
     <owners>MaximumWoahverdrive, mitiya</owners>
     <title>Desktop Info</title>
